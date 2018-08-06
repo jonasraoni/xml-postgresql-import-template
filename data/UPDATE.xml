@@ -1,0 +1,20 @@
+<members>
+	<member>
+		<firstname>NAME</firstname>
+		<lastname>SURNAME</lastname>
+		<date-of-birth>1936-02-01</date-of-birth>
+		<phone>9796740198</phone>
+	</member>
+	<member>
+		<firstname>FAST</firstname>
+		<lastname>SLOWLYNESS</lastname>
+		<date-of-birth>1935-12-10</date-of-birth>
+		<phone>5709742596</phone>
+	</member>
+	<member>
+		<firstname>LONG</firstname>
+		<lastname>SURPRISE</lastname>
+		<date-of-birth>2007-05-10</date-of-birth>
+		<phone>5873733594</phone>
+	</member>
+</members>
